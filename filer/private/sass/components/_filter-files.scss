@@ -27,7 +27,7 @@
     display: table-cell;
     vertical-align: middle;
     position: relative;
-    width: 245px;
+    width: 400px;
     margin: 0;
     padding: 0;
     background: none;
@@ -73,7 +73,7 @@
         position: relative;
         float: left;
         text-align: right;
-        width: calc(100% - 43px);
+        width: calc(100% - 50px);
         margin-right: 5px;
         @media screen and (max-width: $screen-tablet) {
             float: left;
